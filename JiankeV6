@@ -1,4 +1,6 @@
 Instance.new("Message", workspace).Text = "傻逼剑客垃圾缝合脚本抄袭外国源码装逼😂😂😂"
+wait(5)
+Message:Destroy
 local HttpService = game:GetService("HttpService") 
 local LocalPlayer = game:GetService("Players").LocalPlayer 
 
